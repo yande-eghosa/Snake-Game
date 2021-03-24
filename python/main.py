@@ -1,3 +1,4 @@
+#snake game in kivy
 import kivy
 from kivymd.app import MDApp
 
